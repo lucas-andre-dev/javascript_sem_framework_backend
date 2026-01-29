@@ -21,7 +21,7 @@ controller/
 repository/
 model/
 database/
-server.js
+server/
 ```
 
 ---
